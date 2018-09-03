@@ -1,5 +1,5 @@
 ## Status
-[![Build Status](https://travis-ci.org/bird-eye/bird-eye-web-app.svg?branch=master)](https://travis-ci.org/bird-eye/bird-eye-web-app)
+[![Build Status](https://travis-ci.org/bird-eye/bird-eye-web-app.svg?branch=master)](https://travis-ci.org/bird-eye/bird-eye-web-app) [![Greenkeeper badge](https://badges.greenkeeper.io/bird-eye/bird-eye-web-app.svg)](https://greenkeeper.io/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
